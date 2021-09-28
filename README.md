@@ -16,6 +16,7 @@ For every school important task for administration department is to manage stude
   ```
     
 ## Features
+- Login and Register
 - Adding New Student
 - Viewing Students
 - Searching Student
