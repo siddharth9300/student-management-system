@@ -1,5 +1,5 @@
 import mysql.connector
-mydb = mysql.connector.connect(host="localhost" , user="siddharth",passwd="123456")
+mydb = mysql.connector.connect(host="localhost" , user="username",passwd="password")
 mycursor = mydb.cursor()
 mycursor.execute("create database if not exists students")
 mycursor.execute("use students")
