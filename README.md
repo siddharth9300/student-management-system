@@ -22,7 +22,6 @@ For every school important task for administration department is to manage stude
 - Searching Student
 - Updating Student
 - Deleting Student
-
   
 ## MySQL Table Structure
 
